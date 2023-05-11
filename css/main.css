@@ -2337,12 +2337,13 @@ h3 {
 }
 
 .text_about_me {
-  font-family: 'Tenor Sans';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 30px;
-  line-height: 58px;
-  text-align: center;
+   font-family: 'Tenor Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 30px;
+   line-height: 58px;
+   text-align: center;
+   color: #000000;
 
   color: #000000;
   margin-top: 50px;
