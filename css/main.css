@@ -1883,7 +1883,7 @@ filter: drop-shadow(0px 0px 10px #000000);
   width: 1136px;
   height: 450px;
   display: flex;
-  margin-left: 469px;
+  margin-left: 429px;
   margin-top: 15px;
 }
 
@@ -1892,8 +1892,8 @@ filter: drop-shadow(0px 0px 10px #000000);
   width: 1136px;
   height: 450px;
   display: flex;
-  margin-left: 469px;
-  margin-top: 15px;
+  margin-left: 429px;
+  margin-top: -111px;
 }
 
 .team3 {
@@ -2182,7 +2182,6 @@ h5 {
 }
 
 .about {
-  width: 1347px;
   /*позиционирование по центру*/
   margin: 0 auto; 
   margin-top: 120px;
@@ -2337,7 +2336,6 @@ h3 {
 }
 
 .teamback {
-  width: 1347px;
   /*позиционирование по центру*/
   margin: 0 auto; 
   margin-top: -100px;
@@ -2521,5 +2519,5 @@ just for appearance; change whatever you want
 }
 
 .teambackone {
-  margin-top: -114px;
+  margin-top: -73px;
 }
