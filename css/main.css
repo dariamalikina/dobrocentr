@@ -2336,6 +2336,19 @@ h3 {
   margin-left: 22px;
 }
 
+h3_hx3 {
+  font-family: 'Tenor Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 58px;
+  text-align: center;
+
+  color: #000000;
+  margin-top: 50px;
+  margin-left: 607px;
+}
+
 .teamback {
   width: 1900px;
   /*позиционирование по центру*/
