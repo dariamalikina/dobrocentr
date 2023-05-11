@@ -20,8 +20,6 @@ a {
 }
 
 section {
-  width: 1347px;
-  /*позиционирование по центру*/
   margin: 0 auto;
   padding-top: 113px  
 }
@@ -53,7 +51,7 @@ ul, li {
   padding-top: 57px;
   color: #fff;
   padding-bottom: 287px;
-  width: 1347px;
+  height: 1109px;
   /*позиционирование по центру*/
   margin: 0 auto;
 }
@@ -426,7 +424,6 @@ a.idTop:hover {
 }
 
 footer {
-   width: 1347px;
   /*позиционирование по центру*/
   margin: 0 auto; 
   background: linear-gradient(0deg, rgba(173, 186, 94, 0.79) 6.87%, rgba(255, 255, 255, 0) 89.92%);
@@ -1747,7 +1744,7 @@ filter: drop-shadow(0px 0px 10px #000000);
 
 .filtr {
   margin-top: -477px;
-  margin-left: -855px;
+  margin-left: -1138px;
   mix-blend-mode: darken;
   transform: rotate(0deg);
 }
@@ -1886,7 +1883,7 @@ filter: drop-shadow(0px 0px 10px #000000);
   width: 1136px;
   height: 450px;
   display: flex;
-  margin-left: 145px;
+  margin-left: 469px;
   margin-top: 15px;
 }
 
@@ -1895,15 +1892,15 @@ filter: drop-shadow(0px 0px 10px #000000);
   width: 1136px;
   height: 450px;
   display: flex;
-  margin-left: 140px;
-  margin-top: -117px;
+  margin-left: 469px;
+  margin-top: 15px;
 }
 
 .team3 {
   width: 822px;
   height: 346px;
   display: flex;
-  margin-left: 287px;
+  margin-left: 590px;
   margin-top: -60px;
 }
 
@@ -2040,13 +2037,13 @@ filter: drop-shadow(0px 0px 10px #000000);
 }
 
 #otchet {
-  margin-left: 73px;
+  margin-left: 348px;
   margin-top: -55px;
   height: 600px;
 }
 
 .arhoth{
-  margin-left: 516px;
+  margin-left: 803px;
   margin-top: 10px;
   font-family: 'Tenor Sans';
   font-size: 23px;
@@ -2228,7 +2225,7 @@ line-height: 34px;
 }
 
 h4 {
-  width: 1247px;
+  width: 1799px;
   height: 62px;
   margin-top: 5px;
   margin-left: 5px;
@@ -2248,7 +2245,7 @@ h5 {
 }
 
 h5 {
-  width: 1246px;
+  width: 1799px;
   height: 148px;
   margin-top: 50px;
   margin-left: 5px;
@@ -2318,8 +2315,8 @@ h5 {
 }
 
 .yar {
-  margin-left: 400px;
-  margin-top: 115px;
+  margin-left: 667px;
+  margin-top: 505px;
   margin-bottom: -90px;
 
   filter: drop-shadow(0px 46px 50px rgba(20, 19, 19, 0.28));
@@ -2516,13 +2513,13 @@ just for appearance; change whatever you want
 }
 
 .yard {
-  margin-top: -13px;
-  width: 1346.39px;
-  height: 271.34px;
-  mix-blend-mode: multiply;
-
+	margin-left: -5px;
+	margin-top: -13px;
+	width: 1906.39px;
+	height: 271.34px;
+	mix-blend-mode: multiply;
 }
 
 .teambackone {
-  margin-top: -176px;
+  margin-top: -114px;
 }
